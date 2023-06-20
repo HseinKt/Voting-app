@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788642474692",
+    "project_id": "onlinevotingapp-12b7b",
+    "storage_bucket": "onlinevotingapp-12b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788642474692:android:3cfa8c729087388cd8b791",
+        "android_client_info": {
+          "package_name": "com.example.voting_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788642474692-po10osu023097s5m755gcrsdjkvhofqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lC2oeWdlkjQnu3Q6s74Keo8ua7m4TNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788642474692-po10osu023097s5m755gcrsdjkvhofqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
