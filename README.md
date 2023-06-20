@@ -14,3 +14,25 @@ This is an E-Voting application built using Java that allows secure and accessib
   <img src="https://github.com/HseinKt/Voting-app/assets/120685276/8efb710e-e1e9-41aa-8c4e-865da41f1b73.jpg" width="200">
   <img src="https://github.com/HseinKt/Voting-app/assets/120685276/e45ba91d-67df-4c57-b31b-8566ae2f57c5.jpg" width="200">
 </div>
+
+### Features
+<ul>
+  <li>Secure and accessible voting platform. </li>
+  <li>Real-time data updates using Firebase Realtime Database. </li>
+  <li>High uptime of 99.9% for a reliable voting experience. </li>
+  <li>Easy and intuitive user interface. </li>
+  <li>Supports a large number of concurrent users. </li>
+</ul>
+
+### Technologies Used
+<ul>
+  <li>Firebase Realtime Database </li>
+  <li>Java Language </li>
+  <li>Android Studio platform </li>
+  <li>Gradle-based build support</li>
+</ul>
+
+
+
+
+
